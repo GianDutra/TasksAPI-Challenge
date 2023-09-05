@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "9132a45f-ffb7-4229-a006-d95548f72c38",
+      "title": "Estudar node.js",
+      "description": "Continuar estudando node.js e aprender bastante coisa sobre o back-end",
+      "completed_at": null,
+      "created_at": "2023-09-05T14:55:55.388Z",
+      "updated_at": "2023-09-05T14:55:55.388Z"
+    },
+    {
+      "id": "a99fb766-321f-4560-86d2-155be57deeb9",
+      "title": "Realizar tarefa de japonês",
+      "description": "Terminar a tarefa de japonês sobre ageru, kureru e morau",
+      "completed_at": null,
+      "created_at": "2023-09-05T15:01:25.835Z",
+      "updated_at": "2023-09-05T15:01:25.835Z"
+    },
+    {
+      "id": "ea4b9415-941c-40e0-8034-1ebe410248ee",
+      "title": "Fazer front-end do projeto integrador da universidade",
+      "description": "Começar a fazer as telas de criação de site para a DPaschoal",
+      "completed_at": null,
+      "created_at": "2023-09-05T15:18:19.228Z",
+      "updated_at": "2023-09-05T15:18:19.228Z"
+    }
+  ]
+}
