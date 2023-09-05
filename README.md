@@ -81,8 +81,9 @@ Some suggestions of what can be implemented (I implemented them):
 - In routes that receive `/:id`, in addition to validating whether the `id` exists in the database, return the request with a message informing that the record does not exist.
 ## Tech Stack
 
-- **[CSV](https://csv.js.org/)**
+- **[JavaScript](https://www.javascript.com/)**
 - **[NodeJS](https://nodejs.org)**
+- **[CSV](https://csv.js.org/)**
 
   
 ## 🚀 Testing my Tasks-API
