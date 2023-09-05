@@ -75,7 +75,7 @@ Routes:
 
 ## Going beyond
 
-Some suggestions of what can be implemented:
+Some suggestions of what can be implemented (I implemented them):
 
 - Validate whether the `title` and `description` properties of the `POST` and `PUT` routes are present in the `body` of the request.
 - In routes that receive `/:id`, in addition to validating whether the `id` exists in the database, return the request with a message informing that the record does not exist.
