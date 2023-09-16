@@ -92,7 +92,7 @@ Some suggestions of what can be implemented (I implemented them):
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:GianDutra/TasksAPI-Challenge.git
+$ git clone https://github.com/GianDutra/TasksAPI-Challenge.git
 
 # Access the project folder in your terminal
 $ cd TasksAPI-Challenge
